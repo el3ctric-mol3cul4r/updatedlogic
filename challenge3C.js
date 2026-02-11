@@ -1,0 +1,3 @@
+function vowels(word) {
+    pass
+}
